@@ -142,29 +142,29 @@ Responsive media queries
 }
 
 #about {
-  background: url('../img/about-banner.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
-}
+  background-color: #f2f2f2;
+  }
 #education {
-  background: url('../img/about-banner.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
+  background-color: #d3d3d3;
 }
 #experience {
-  background: url('../img/about-banner.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
+  background-color: #f2f2f2;
 }
 #skills {
-  background: url('../img/about-banner.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
+  background-color: #d3d3d3;
 }
 #awards {
-  background: url('../img/about-banner.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
+  background-color: #f2f2f2;
 }
 .section-padding {
   padding: 60px 0px;
